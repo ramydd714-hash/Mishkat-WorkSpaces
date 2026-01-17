@@ -1,5 +1,7 @@
 {
-  "name": "Mishkat WorkSpaces Landing Page",
-  "description": "A professional, modern, and high-converting landing page for Mishkat WorkSpaces, a co-working space in Nasr City, Cairo, featuring detailed service offerings, testimonials, and contact information with a premium aesthetic.",
-  "requestFramePermissions": []
+  "name": "Mishkat WorkSpaces Landing",
+  "description": "Professional, warm, and inspiring landing page for Mishkat WorkSpaces in Nasr City, Cairo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
 }
